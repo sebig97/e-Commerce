@@ -1,0 +1,14 @@
+[{
+  "signButton": {
+    "type": "org.openqa.selenium.By$ByCssSelector",
+    "value": "#submitLogin"
+  },
+  "email": {
+    "type": "org.openqa.selenium.By$ByCssSelector",
+    "value": "#email"
+  },
+  "password": {
+    "type": "org.openqa.selenium.By$ByCssSelector",
+    "value": "#passwd"
+  }
+}]
